@@ -1,0 +1,8 @@
+0 Persegi
+1 Persegi Panjang
+2 Segitiga
+3 Lingkaran
+4 Trapesium
+5 Belah Ketupat
+6 Jajar Genjang
+7 Layang - Layang
